@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👨‍💻 Osanyindoro Emmanuel
 
-<!--
-**Osanyindoro-Emmanuel/Osanyindoro-Emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Academic Profile
+* **Program:** B.Sc. Computer Science (300 Level)
+* **Institution:** Modibbo Adama University (MAU), Yola
+* **Focus:** Cybersecurity, Threat Hunting, and Cloud Security
 
-Here are some ideas to get you started:
+### 📊 Leadership & Initiatives
+* **Cowrywise Campus Lead:** Official lead for MAU (2026)
+* **Founder:** MAU Clean Campus Initiative
+* **Member:** 3MTT Nigeria (Cohort 3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills & Projects
+* **Programming:** Python (Advanced)
+* **Creative:** 3D Modeling and Graphic Design in Blender
+* **Project:** Developed a Python-based CGPA Calculator for academic tracking
