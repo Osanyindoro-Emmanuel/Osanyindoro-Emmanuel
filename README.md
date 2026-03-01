@@ -11,6 +11,6 @@
 * **Member:** 3MTT Nigeria (Cohort 3)
 
 ### 🛠️ Technical Skills & Projects
-* **Programming:** Python (Advanced)
+* **Programming:** Python 
 * **Creative:** 3D Modeling and Graphic Design in Blender
 * **Project:** Developed a Python-based CGPA Calculator for academic tracking
