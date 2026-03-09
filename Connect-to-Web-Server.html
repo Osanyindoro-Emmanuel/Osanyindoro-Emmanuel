@@ -1,0 +1,29 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8">
+<style>
+      body { font-family: Arial, sans-serif; margin: 1rem; }
+      table { margin-top: 1rem; border: 1px solid gray; width: 7in; border-collapse: collapse; }
+      td { font-size: 10pt; font-family: "Arial", sans-serif; border: solid windowtext 1pt; padding: 0.7pt 5.75pt; }
+      .CMD, .CMDOutput { margin-top: 4px; margin-bottom: 4px; font-family: "Courier New", Courier, monospace; margin-left: 30px; }
+      h2 { font-size: 1.25em; font-weight: bold; }
+</style>
+</head><body>
+    <div class="article">
+        <h1>Packet Tracer - Connect to a Web Server</h1>
+        <h2>Objectives</h2>
+        <p>Observe how packets are sent across the Internet using IP addresses.</p>
+        <h2>Part 1: Verify connectivity to the web server</h2>
+        <p><b>PC> ping 172.33.100.50</b></p>
+        <p class="CMDOutput">Pinging 172.33.100.50 with 32 bytes of data:</p>
+        <p class="CMDOutput">Reply from 172.33.100.50: bytes=32 time=0ms TTL=127</p>
+        <p class="CMDOutput">Reply from 172.33.100.50: bytes=32 time=0ms TTL=127</p>
+        <p class="CMDOutput">Reply from 172.33.100.50: bytes=32 time=0ms TTL=127</p>
+        <p class="CMDOutput">Reply from 172.33.100.50: bytes=32 time=0ms TTL=127</p>
+        <p>A reply verifies connectivity from the client to the destination web server.</p>
+        <h2>Part 2: Connect via the web client</h2>
+        <p>Enter <b>172.33.100.50</b> into the URL and click <b>Go</b>. The web client will connect to the web server via the IP address.</p>
+        <div class="answer">
+            <p><b>Question:</b> What messages did you see after the web page loaded?</p>
+            <p><b>Answer:</b> Welcome to the Learn IP Web Site. You were able to reach this website because you had the IP address of the web server.</p>
+        </div>
+    </div>
+</body></html>
